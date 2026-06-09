@@ -1,4 +1,4 @@
-# Blind Analysis Campaign: Initial Findings
+# Blind Analysis Campaign: A Post-Action Report
 
 This report details the initial intelligence extracted from the blockaded village chat data using the Blind Analysis toolchain.
 
